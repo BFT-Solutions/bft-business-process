@@ -10,3 +10,4 @@
 | BFT Token Factory | [Business Model](https://bft-solutions.github.io/bft-business-process/tools/bfttokenfactory/index.html#list) |
 | BFT Voting app | [Business Model](https://bft-solutions.github.io/bft-business-process/tools/bftvote/index.html#list) |
 | BFT Native Wallet | [Business Model](https://bft-solutions.github.io/bft-business-process/tools/bftwallet/index.html#list) |
+| BFT Asset Tokenization | [Business Model](https://bft-solutions.github.io/bft-business-process/tools/bftassettokenization/index.html#list) |
